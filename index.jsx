@@ -176,7 +176,4 @@ var Calendar = React.createClass({
   }
 });
 
-React.render(
-  <Calendar/>,
-  document.getElementById('Calendar')
-);
+
